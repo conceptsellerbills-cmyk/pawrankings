@@ -5,6 +5,7 @@ import NewsletterForm from '../components/NewsletterForm'
 export const metadata: Metadata = {
   title: "Best Pet Products Ranked 2025 — Expert Reviews for Pet Owners",
   description: "Expert-reviewed rankings of pet food, beds, toys and health products for dogs, cats and small animals.",
+  alternates: { canonical: "https://www.pawrankings.com" },
 };
 
 const STARS = (n: number) => "★".repeat(n) + "☆".repeat(5 - n);
