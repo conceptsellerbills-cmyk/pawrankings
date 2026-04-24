@@ -116,3 +116,13 @@ While awaiting veterinary care or addressing a known benign cause:
 - Offer canned food if currently dry-food fed (higher moisture and stronger scent)
 
 Never force-feed a cat without veterinary guidance — the stress can make anorexia worse. Veterinary-prescribed appetite stimulants (mirtazapine, capromorelin) can be highly effective for cats that need medical support.
+
+---
+
+## Related Articles
+
+- [Best Cat Food 2025: Top 9 Brands for Healthy, Happy Cats](/best-cat-food-2025)
+- [Best Cat Litter in 2025: Clumping, Crystal, and Natural Options Compared](/best-cat-litter-2025)
+- [Best Dog Food for Puppies 2025: Top Picks for Healthy Growth](/best-dog-food-for-puppies-2025)
+- [Dandylion Clean Paws Review: The No-Rinse Dog Paw Cleaner That Actually Works (2025)](/dandylion-clean-paws-dog-paw-cleaner-review)
+- [How to Potty Train a Dog: Complete Guide for Puppies and Adults](/how-to-potty-train-a-dog)
